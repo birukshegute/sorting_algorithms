@@ -1,8 +1,9 @@
 #include "sort.h"
 /**
  * swap - swapping of two elements.
- * @x,y - elements to be swapped
- * @temp - temporary location for the swapping
+ * @x: elements to be swapped.
+ * @y: elements to be swapped.
+ * @temp - temporary location for the swapping.
  *
  * Return - 0 on success
  */

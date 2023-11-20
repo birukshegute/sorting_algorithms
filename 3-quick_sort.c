@@ -2,7 +2,7 @@
 /**
  * quick_sort - function to do quick sort algorithm
  * @array: array to be sorted
- * @size - size of the array
+ * @size: size of the array
  *
  * Return - always 0
  */
