@@ -2,6 +2,7 @@
 #define SORT_H
 
 #include <stddef.h>
+#include <stdlib.h>
 
 extern size_t size;
 
