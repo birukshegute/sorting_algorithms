@@ -15,6 +15,7 @@ void partition(int *a, int low, int high, int size);
 void shell_sort(int *array, size_t size);
 void traverse(int *a, int size, int h);
 void counting_sort(int *array, size_t size);
-
+void max_heapify(int *array, size_t size, size_t base, size_t root);
+void heap_sort(int *array, size_t size);
 
 #endif
