@@ -3,7 +3,7 @@
  * counting_sort - function to sort an array.
  * @array: array to be sorted.
  * @size: size of array.
- * 
+ *
  * Return - Always 0.
  */
 void counting_sort(int *array, size_t size)
